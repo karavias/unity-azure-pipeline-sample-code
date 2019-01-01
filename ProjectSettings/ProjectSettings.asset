@@ -611,10 +611,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: b6b909ec-a6b7-4868-ae57-b75cdc15cdcd
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: unity-azure-pipeline-sample-code
+  organizationId: karavias
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
